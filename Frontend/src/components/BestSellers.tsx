@@ -72,7 +72,7 @@ function BestSellers() {
                         >
 
                             {/* Product Image */}
-                            <div className="h-60 w-full overflow-hidden bg-[#e8f3e8]">
+                            <div className="h-64 w-full overflow-hidden bg-[#e8f3e8]">
                                 <img
                                     src={product.image}
                                     alt={product.name}
