@@ -10,19 +10,19 @@ function BestSellers() {
         {
             name: "Pure Organic Honey",
             price: "Rs. 850",
-            category: "Honey",
+            category: "Organic Honey",
             image: img7,
         },
         {
             name: "Traditional Mixed Pickle",
             price: "Rs. 450",
-            category: "Pickles",
+            category: "Traditional Pickles",
             image: img8,
         },
         {
             name: "Organic Turmeric Powder",
             price: "Rs. 300",
-            category: "Spices",
+            category: "Organic Spices",
             image: img6,
         },
         {
